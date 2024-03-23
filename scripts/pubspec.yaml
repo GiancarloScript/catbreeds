@@ -1,0 +1,9 @@
+name: scripts
+
+environment:
+  sdk: ^3.3.0
+
+dependencies:
+  catbreeds:
+    path: ../
+  path: ^1.9.0
